@@ -30,6 +30,15 @@ px      68    160    252    344    436    528    620    712    804    896    */
 
 	}
 
+	p{
+		position:absolute;
+		bottom:1%;
+		left:0%;
+		right:0%;
+		color:#7f7f7c;
+		text-align:center;
+	}
+
 
 /*		Tablet Layout: 768px.
 		Gutters: 24px.
@@ -70,7 +79,7 @@ px      68    160    252    */
 		width: 280px;
 		height: 350px;
 		background-color:#ddd;
-		transform: translate(35% , 50%);
+		transform: translate(15% , 50%);
 		position: relative;
 		padding: 5px;
 		overflow: hidden;
@@ -107,6 +116,14 @@ px      68    160    252    */
 		border-radius: 30px;
 		margin-left: 39px;
 
+	}
+	p{
+		position:absolute;
+		bottom:0%;
+		left:0%;
+		right:0%;
+		color:#7f7f7c;
+		text-align:center;
 	}
 }
 
